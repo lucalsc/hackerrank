@@ -1,1 +1,1 @@
-# hackerrank
+Resolução de desafios da plataforma HackerRank.
